@@ -1,1 +1,1 @@
-echo 'this is from github setup.ssh' >> /home/pi/out.txt
+echo 'this is from github setup.ssh'
