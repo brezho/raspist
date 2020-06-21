@@ -1,1 +1,3 @@
-echo 'this is from github setup.ssh'
+if [! -d /usr/local/version] then
+  mkdir /usr/local/version
+fi
